@@ -1,1 +1,1 @@
-# Lab-2-Capston-Project
+# Lab 2: Collecting Data Using APIs
